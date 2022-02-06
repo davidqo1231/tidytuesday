@@ -1,2 +1,2 @@
 # tidytuesday
-My projects from tidytuesday challange
+My projects for tidytuesday challange
